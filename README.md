@@ -1,4 +1,4 @@
-# Burnt Area Mapping in Lamington National Park looking at initial burnt area and how this area recovered between December 2019 and December 2020.
+# Burnt Area Mapping in Lamington National Park
 
 ## This project was a part of the GEOM3001 Course I took at UQ in Semester 2, 2024. Tasked with proposing a project utilising geospatial data. This jupyter notebook code file written in Python contains all of the code used to produce the data and graphics for the report (which can be found on my website).
 
